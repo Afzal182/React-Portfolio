@@ -19,8 +19,8 @@ function Portfolio() {
       id: 2,
       title: "React Portfolio",
       src: portfolio,
-      demoLink: "https://www.example.com/demo2",
-      codeLink: "https://www.example.com/code2",
+      demoLink: "https://afzalhashmi-com.netlify.app/",
+      codeLink: "https://github.com/Afzal182/React-Portfolio.git",
     },
     {
       id: 3,
